@@ -1,10 +1,11 @@
 Pacemaker-Corosync
 =============
 
-## Cách cài đặt Pacemaker trên centOS
-## Cách cài đặt Pacemaker trên Ubuntu Server
+## [Script cài đặt Pacemaker trên CentOS](https://github.com/ducnc/pacemaker-corosync/blob/master/Script-Centos/pacemake-cent.sh)
 
-## Bài lab pacemaker HA mysql, apapche
+## [Script cài đặt Pacemaker trên Ubuntu Server](https://github.com/ducnc/pacemaker-corosync/blob/master/Script-Ubuntu/pacemake-ubuntu.sh)
+
+## [Bài lab pacemaker HA mysql, apapche](https://github.com/ducnc/pacemaker-corosync/blob/master/Script-Ubuntu/drbd.sh)
 
 ## Một số cấu hình cơ bản với Pacemaker
 
